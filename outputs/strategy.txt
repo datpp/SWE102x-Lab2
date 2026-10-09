@@ -1,0 +1,21 @@
+$ java refactoring_guru.strategy.example.Demo
+
+(input: inputs/strategy.txt)
+
+Please, select a product:
+1 - Mother board
+2 - CPU
+3 - HDD
+4 - Memory
+Count: Do you wish to continue selecting products? Y/N: Please, select a product:
+1 - Mother board
+2 - CPU
+3 - HDD
+4 - Memory
+Count: Do you wish to continue selecting products? Y/N: Please, select a payment method:
+1 - PalPay
+2 - Credit Card
+Enter the user's email: Enter the password: Wrong email or password!
+Enter the user's email: Enter the password: Data verification has been successful.
+Pay 6250 units or Continue shopping? P/C: Paying 6250 using PayPal.
+Payment has been successful.
